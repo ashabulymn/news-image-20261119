@@ -18,59 +18,61 @@ Entered on [make.fun](https://make.fun/?ref=2kckwetd&utm_source=github&utm_mediu
 
 ## The World in One Page — 19 November 2026
 
-One image summing up 19 November 2026's world news: 42 stories, 13 illustrated (3 hero cards and 10 tiles), a world map with numbered pins, and a list of 29 more stories.
+One image summing up 19 November 2026's world news: 44 stories, 13 illustrated (3 hero cards with original illustrations and 10 tiles), a world map with numbered pins, a by-the-numbers strip, and a list of 31 more stories.
 
 `main.py` (Python 3.13, stdlib only, no network) copies the pre-built
 front-page image `entry.jpg` (1024×1024, under 1 MiB) to
 `/output/entry.png`. Running it twice writes the same bytes.
 
 The image is rendered from `design/page.html` (HTML/CSS/SVG, original
-drawings) with headless Chromium, so every word is sharp and legible.
+drawings and original AI-generated hero illustrations in `design/`) with headless Chromium, so every word is sharp and legible.
 
-## Stories covered (42)
+## Stories covered (44)
 
-1. Crimean Bridge hit again
-2. Iran attacks Gulf states after US strike on Qeshm island
+1. GTA VI rolls out worldwide
+2. Crimean Bridge hit again
 3. Xi–Trump–Putin trilateral meeting planned in Shenzhen
-4. Anthropic raises $81.3bn in biggest IPO of all time
-5. Hakeem Jeffries set to be first African-American US House Speaker
-6. EU proposes €45bn Ukraine loan
-7. NASA Voyager 1 reaches one light-day distance
-8. Cyclone Akvan threatens India
-9. India–Japan defence talks
-10. Gaza aid call after flooding
-11. Spain general strike
-12. P.V. Sindhu back in world top 5; India vs New Zealand Test starts
-13. Sudan UN confirms over 2,230 civilian deaths
-14. EU approves Indonesia trade pact
-15. Canada adjusts China ties
-16. French minister says Melenchon could win
-17. Russia–Ukraine drone attacks amid Abu Dhabi talks
-18. Estonia to close Russia border
-19. Saudi Arabia says danger passed
-20. Cocaine and pills seized in Libya
-21. US–Philippines $2bn loan package
-22. Prague protest for media freedom
-23. France cost-of-living protests
-24. Israel's president taps Eisenkot to form government
-25. Yemen missile threat to Riyadh
-26. Panama second arrest over journalist attack
-27. Kenya drought deepens milk shortage
-28. US senators warn AI cyber threats outpace defences
-29. US–Venezuela oil revenue $12bn report
-30. Goldman Sachs upgrades India
-31. Stacy Keach dies at 85
-32. Lakshya Sen enters badminton top 10
-33. UN court to rule on Myanmar genocide case
-34. Israel delays E1 settlement
-35. Trump says Iran is pursuing biological weapons
-36. IAEA says North Korea expanded uranium enrichment
-37. NASA sets coverage for Northrop Grumman CRS-25 launch
-38. Somalia faces deepening crisis amid constitutional reforms
-39. South Korea college exam held under AI cheating curbs
-40. Nearly 1 in 4 children live in conflict zones, UN report finds
-41. North Korea fires ballistic missiles after US–South Korea drill
-42. India imposes 162.5% duty on bulk Scotch imports
+4. Iran attacks Gulf states after US strike on Qeshm island
+5. Anthropic raises $81.3bn in biggest IPO of all time
+6. Hakeem Jeffries set to be first African-American US House Speaker
+7. EU proposes €45bn Ukraine loan
+8. NASA Voyager 1 reaches one light-day distance
+9. Cyclone Akvan threatens India
+10. India–Japan defence talks
+11. Gaza aid call after flooding
+12. Spain general strike
+13. P.V. Sindhu back in world top 5
+14. Sudan UN confirms over 2,230 civilian deaths
+15. India vs New Zealand Test starts
+16. EU approves Indonesia trade pact
+17. Canada adjusts China ties
+18. French minister says Melenchon could win
+19. Russia–Ukraine drone attacks amid Abu Dhabi talks
+20. Estonia to close Russia border
+21. Saudi Arabia says danger passed
+22. Cocaine and pills seized in Libya
+23. US–Philippines $2bn loan package
+24. Prague protest for media freedom
+25. France cost-of-living protests
+26. Israel's president taps Eisenkot to form government
+27. Yemen missile threat to Riyadh
+28. Panama second arrest over journalist attack
+29. Kenya drought deepens milk shortage
+30. US senators warn AI cyber threats outpace defences
+31. US–Venezuela oil revenue $12bn report
+32. Goldman Sachs upgrades India
+33. Stacy Keach dies at 85
+34. Lakshya Sen enters badminton top 10
+35. UN court to rule on Myanmar genocide case
+36. Israel delays E1 settlement
+37. Trump says Iran is pursuing biological weapons
+38. IAEA says North Korea expanded uranium enrichment
+39. NASA sets coverage for Northrop Grumman CRS-25 launch
+40. Somalia faces deepening crisis amid constitutional reforms
+41. South Korea college exam held under AI cheating curbs
+42. Nearly 1 in 4 children live in conflict zones, UN report finds
+43. North Korea fires ballistic missiles after US–South Korea drill
+44. India imposes 162.5% duty on bulk Scotch imports
 
 Sources: Reuters, AP, AFP, BBC, Al Jazeera, CNN, UN reports of 19 November 2026. All drawings are original.
 
