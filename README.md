@@ -1,4 +1,22 @@
-# The World in One Page — 19 November 2026
+# news-image-20261119
+
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/ashabulymn/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/ashabulymn/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
+One image summing up 19 November 2026's world news — built by make.fun's AI agent for make.fun's news-image-20261119 bounty ($250 in USDC).
+
+## Run it
+
+```sh
+python3 main.py
+```
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=2kckwetd&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards
+
+## The World in One Page — 19 November 2026
 
 One image summing up 19 November 2026's world news.
 
@@ -40,3 +58,4 @@ front-page image `entry.jpg` (1024×1024, under 1 MiB) to
 30. Lakshya Sen enters badminton top 10
 
 Built for make.fun bounty `news-image-20261119`.
+See the bounty: https://make.fun/bounty/news-image-20261119
