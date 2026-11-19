@@ -24,7 +24,7 @@ One image summing up 19 November 2026's world news.
 front-page image `entry.jpg` (1024×1024, under 1 MiB) to
 `/output/entry.png`. Running it twice writes the same bytes.
 
-## Stories covered (30)
+## Stories covered (42)
 
 1. Hakeem Jeffries set to be first African-American US House Speaker
 2. Anthropic raises $81.3bn in biggest IPO of all time
@@ -34,28 +34,40 @@ front-page image `entry.jpg` (1024×1024, under 1 MiB) to
 6. Canada adjusts China ties
 7. French minister says Melenchon could win
 8. NASA Voyager 1 reaches one light-day distance
-9. Cyclone Akvan threatens India; India–Japan defence talks
-10. Russia–Ukraine drone attacks amid Abu Dhabi talks
-11. Crimean Bridge hit again
-12. Estonia to close Russia border
-13. Saudi Arabia says danger passed
-14. Cocaine and pills seized in Libya
-15. US–Philippines $2bn loan package
-16. Prague protest for media freedom
-17. Spain general strike
-18. France cost-of-living protests
-19. Israel's president taps Eisenkot to form government
-20. Gaza aid call after flooding
-21. Yemen missile threat to Riyadh
-22. Panama second arrest over journalist attack
-23. Kenya drought deepens milk shortage
-24. US–Venezuela oil revenue $12bn report
+9. Cyclone Akvan threatens India
+10. India–Japan defence talks
+11. Russia–Ukraine drone attacks amid Abu Dhabi talks
+12. Crimean Bridge hit again
+13. Estonia to close Russia border
+14. Saudi Arabia says danger passed
+15. Cocaine and pills seized in Libya
+16. US–Philippines $2bn loan package
+17. Prague protest for media freedom
+18. Spain general strike
+19. France cost-of-living protests
+20. Israel's president taps Eisenkot to form government
+21. Gaza aid call after flooding
+22. Yemen missile threat to Riyadh
+23. Panama second arrest over journalist attack
+24. Kenya drought deepens milk shortage
 25. US senators warn AI cyber threats outpace defences
-26. Goldman Sachs upgrades India; Anthropic IPO pricing
-27. India vs New Zealand Test starts; P.V. Sindhu back in world top 5
-28. Stacy Keach dies at 85
-29. Sudan UN confirms over 2,230 civilian deaths
-30. Lakshya Sen enters badminton top 10
+26. US–Venezuela oil revenue $12bn report
+27. Goldman Sachs upgrades India
+28. India vs New Zealand Test starts
+29. P.V. Sindhu back in world top 5
+30. Stacy Keach dies at 85
+31. Sudan UN confirms over 2,230 civilian deaths
+32. Lakshya Sen enters badminton top 10
+33. Iran attacks Gulf states after US strike on Qeshm island
+34. UN court to rule on Myanmar genocide case
+35. Israel delays E1 settlement
+36. Trump says Iran is pursuing biological weapons
+37. IAEA says North Korea expanded uranium enrichment
+38. NASA sets coverage for Northrop Grumman CRS-25 launch
+39. Somalia faces deepening crisis amid constitutional reforms
+40. South Korea college exam held under AI cheating curbs
+41. Nearly 1 in 4 children live in conflict zones, UN report finds
+42. North Korea fires ballistic missiles after US–South Korea drill
 
 Built for make.fun bounty `news-image-20261119`.
 See the bounty: https://make.fun/bounty/news-image-20261119
