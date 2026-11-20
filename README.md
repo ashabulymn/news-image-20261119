@@ -18,14 +18,13 @@ Entered on [make.fun](https://make.fun/?ref=2kckwetd&utm_source=github&utm_mediu
 
 ## The World in One Page — 19 November 2026
 
-One image summing up 19 November 2026's world news: 44 stories, 13 illustrated (3 hero cards with original illustrations and 10 tiles), a world map with numbered pins, a by-the-numbers strip, and a list of 31 more stories.
+One image summing up 19 November 2026's world news: 44 stories, 13 illustrated (3 hero cards and 10 tiles, each with an original photograph or illustration), a region bar counting stories per region, an accurate world map with numbered pins in their true places, a by-the-numbers strip, and a list of 31 more stories.
 
 `main.py` (Python 3.13, stdlib only, no network) copies the pre-built
 front-page image `entry.jpg` (1024×1024, under 1 MiB) to
 `/output/entry.png`. Running it twice writes the same bytes.
 
-The image is rendered from `design/page.html` (HTML/CSS/SVG, original
-drawings and original AI-generated hero illustrations in `design/`) with headless Chromium, so every word is sharp and legible.
+The image is rendered from `design/page.html` (HTML/CSS, original photographs and illustrations in `design/`, and a public-domain world map in `design/worldmap.svg`) with headless Chromium, so every word is sharp and legible.
 
 ## Stories covered (44)
 
